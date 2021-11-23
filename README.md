@@ -28,7 +28,7 @@ Los usuarios deben poder:
 
 ### Lo que aprendi:
 
-En este proyecto aprendi a realizar un menu responsive, ademas de visualizar/ocultar un submenu de un enlace.
+En este proyecto aprendí a realizar un menu responsive, ademas de visualizar/ocultar un submenu de un enlace.
 
 Practicar tanto el uso de CSS Grid como el uso de flexbox.
 
