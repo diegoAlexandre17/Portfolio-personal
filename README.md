@@ -13,7 +13,7 @@ Los usuarios deben poder:
 
 ### Links
 
-- URL: [Portfolio personal](https://diegoalexandre17.github.io/Blogr-Landing-Page/)
+- URL: [Portfolio personal](https://diegoalexandre17.github.io/Portfolio-personal/)
 
 ## Mi proceso
 
