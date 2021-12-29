@@ -9,6 +9,7 @@ Los usuarios deben poder:
 - Ver el diseño óptimo para el sitio según el tamaño de la pantalla de su dispositivo
 - Ver estados de desplazamiento para todos los elementos interactivos en la página
 - Poder contactar via email.
+- Descargar el CV con el boton descargar cv.
 - Visualizar el menu responsive.
 
 ### Links

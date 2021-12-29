@@ -78,7 +78,6 @@ body {
 .hero {
   height: 90%;
   font-size: 2rem;
-  /*   background-color: var(--white); */
   padding: 0rem 2rem;
 
   display: flex;
