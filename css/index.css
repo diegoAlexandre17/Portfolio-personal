@@ -39,6 +39,7 @@ body {
 
 .icon-menu {
   display: none;
+  z-index: 99;
 }
 
 .nav {
@@ -46,6 +47,7 @@ body {
   justify-content: space-between;
   align-items: center;
   padding: 1rem;
+  z-index: 98;
 }
 
 .nav__title {
@@ -97,6 +99,11 @@ body {
 .hero__text {
   color: var(--secundary-blue);
   text-align: center;
+  margin-bottom: 4rem;
+
+  opacity: 0;
+  transform: scale(0.9);
+  transition: 0.7s ease-in-out;
 }
 
 .hero__img {
@@ -159,8 +166,15 @@ body {
   margin: 0 auto;
   border-radius: 20px;
   max-width: 750px;
-  /* min-width: 450px;
-  width: 15rem; */
+
+  opacity: 0;
+  transform: scale(0.9);
+  transition: 0.7s ease-in-out;
+}
+
+.IsVisible {
+  opacity: 1;
+  transform: scale(1);
 }
 
 .about__cta {
@@ -280,11 +294,12 @@ body {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
   margin-top: 4rem;
-  gap: 2rem;
+  gap: 4rem;
 }
 
 .contact__title {
   text-align: center;
+  margin-bottom: 2rem;
 }
 
 .contact__form,
